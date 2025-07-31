@@ -1,5 +1,3 @@
-
-[restaurant-analytics.md](https://github.com/user-attachments/files/21534946/restaurant-analytics.md)
 # Restaurant Menu Performance Analysis
 
 A small restaurant is seeking to better understand its menu performance since they debuted a new menu at the start of the year. We will dig into the customer data to see which menu items are doing well / not well and what the top customers seem to like best.
